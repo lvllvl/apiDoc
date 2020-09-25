@@ -1,6 +1,10 @@
 # apiDoc
 Create API documentation for calling the following method. Provide some feedback for the java developer. Assume the audience is an experienced java developer.
 
+<p align="center">
+<img width="520" height="350" src="javaCode.png">
+</p>
+
 
 ### Coding Comments / Feedback 
 Here's a list of some feedback on your code. 
